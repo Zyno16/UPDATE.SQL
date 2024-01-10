@@ -1,0 +1,1 @@
+UPDATE emp set EMPNAME="omar" WHERE EMPNO=1;
